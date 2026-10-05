@@ -73,8 +73,13 @@ export function generateTheme({
     }
 }
 
+// EMIOS Flow - marca propia de Energiminus (fork propio de Activepieces CE).
+// Verde corporativo EMIOS: #298B21. Ver fork/GUIA-FORK-Y-BRANDING.md
 export const defaultTheme = generateTheme({
-    primaryColor: '#6e41e2',
-    websiteName: 'Activepieces',
+    primaryColor: '#298B21',
+    websiteName: 'EMIOS Flow',
     ...DEFAULT_BRAND_LOGOS,
+    fullLogoUrl: '/brand/emios-icon.png',
+    favIconUrl: '/brand/emios-favicon.ico',
+    logoIconUrl: '/brand/emios-icon.png',
 })
