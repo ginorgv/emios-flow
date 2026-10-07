@@ -81,5 +81,5 @@ export const defaultTheme = generateTheme({
     ...DEFAULT_BRAND_LOGOS,
     fullLogoUrl: '/brand/emios-logo.svg',
     favIconUrl: '/brand/emios-favicon.ico',
-    logoIconUrl: '/brand/emios-logo.svg',
+    logoIconUrl: '/brand/emios-icon.svg',
 })
