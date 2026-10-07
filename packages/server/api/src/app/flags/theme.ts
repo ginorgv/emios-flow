@@ -79,7 +79,7 @@ export const defaultTheme = generateTheme({
     primaryColor: '#298B21',
     websiteName: 'EMIOS Flow',
     ...DEFAULT_BRAND_LOGOS,
-    fullLogoUrl: '/brand/emios-icon.png',
+    fullLogoUrl: '/brand/emios-logo.svg',
     favIconUrl: '/brand/emios-favicon.ico',
-    logoIconUrl: '/brand/emios-icon.png',
+    logoIconUrl: '/brand/emios-logo.svg',
 })
