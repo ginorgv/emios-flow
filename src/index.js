@@ -297,7 +297,7 @@ const simularFactura = createAction({
 const emios = createPiece({
     displayName: 'EMIOS',
     description: 'Plataforma EMIOS de gestion energetica: redes, sensores, valores y simulacion de factura',
-    logoUrl: 'https://app-production-e0fdb.up.railway.app/brand/emios-logo.svg',
+    logoUrl: 'https://app-production-e0fdb.up.railway.app/brand/emios-icon.svg',
     authors: ['Energy Minus'],
     auth: emiosAuth,
     // Categorias del catalogo: "Energia" no existe, asi que se agrupa donde la buscaria
