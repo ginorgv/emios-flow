@@ -1,0 +1,10 @@
+# Dependencias locales (solo hacen falta para VALIDAR la pieza en local;
+# en la plataforma las instala ella sola en tiempo de ejecucion)
+node_modules/
+package-lock.json
+
+# Extraccion temporal del paquete del framework (npm pack + tar)
+package/
+
+# Paquetes generados (se regeneran con "npm pack")
+*.tgz
