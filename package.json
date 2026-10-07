@@ -1,6 +1,6 @@
 {
   "name": "@activepieces/piece-emios",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Integración con la plataforma EMIOS (gestión energética): redes, sensores, valores actuales, histórico y simulación de factura.",
   "license": "MIT",
   "main": "./src/index.js",
